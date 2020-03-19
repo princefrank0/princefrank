@@ -1,4 +1,4 @@
-# slack username: princefrank
+# slack username: princefrank0
 # full name:Emmanuel Frank Chisom
 # Email: princefrank0005@gmail.com
 # Tracks: Backend and Design
